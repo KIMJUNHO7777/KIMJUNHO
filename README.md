@@ -1,2 +1,2 @@
-# KIMJUNHO
+# whitecode
 Code8094
